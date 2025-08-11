@@ -2,29 +2,43 @@
 # Hoja de Vida
 
 ## Nombre Completo
-**Profesión:** _Tu profesión_
+**Profesión:** _Analista y desarollador de software_
 
 ## 📞 Contacto
-- **Teléfono:** +57 123 456 7890
-- **Email:** [correo@ejemplo.com](mailto:correo@ejemplo.com)
+- **Email:** [jesusdavid181003@gmail.com](jesusdavid181003@gmail.com)
 - **LinkedIn:** [linkedin.com/in/tuusuario](https://linkedin.com/in/tuusuario)
 
 ## 🏢 Experiencia Laboral
-### **Empresa XYZ** _(2020 - Actualidad)_
-- Puesto ocupado y descripción breve.
+### **Ciel ingenieria** _(jul 2022 Enero 2023)_
+- Tester de software.
+### **Teleperformance** _(Septiembre 2023 Diciembre 2024)_
+- Agente.
 
-### **Empresa ABC** _(2018 - 2020)_
-- Puesto ocupado y descripción breve.
+## 🎓 Bachiller y tecnico en ejecucion musical
+### **Colegio Enrique Olaya Herrera** _(2018 - 2020)_
+## 🎓 Tecnico en programacion de software
+### **SENA** _(2021 - 2023)_
+## 🎓 Desarollo full stack basico
+### **Universidad distrital** _(2023 - 2023)_
+## 🎓 Calidad en el desarrollo de software
+### **SENA** _(2025 - 2025)_
+## 🎓 Conceptualizacion del lenguace c++
+### **SENA** _(2025 - 2025)_
 
-## 🎓 Educación
-### **Universidad Ejemplo** _(2014 - 2018)_
-- Título obtenido.
 
 ## 💡 Habilidades
-- **Habilidad 1**
-- **Habilidad 2**
-- **Habilidad 3**
+- **Trabajo en equi**
+- **Comunicacion aseriva**
+- **Proactividad**
 
+**Lenguajes:** 
+- HTML
+- css
+- Python
+- C++
+- JS
+**Lenguajes:**
+  -
 ---
 
 ## 🎨 Formatos y Fuentes Disponibles
