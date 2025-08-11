@@ -14,16 +14,16 @@
 ### **Teleperformance** _(Septiembre 2023 Diciembre 2024)_
 - Agente.
 
-## 🎓 Bachiller y tecnico en ejecucion musical
-### **Colegio Enrique Olaya Herrera** _(2018 - 2020)_
-## 🎓 Tecnico en programacion de software
-### **SENA** _(2021 - 2023)_
-## 🎓 Desarollo full stack basico
-### **Universidad distrital** _(2023 - 2023)_
-## 🎓 Calidad en el desarrollo de software
-### **SENA** _(2025 - 2025)_
-## 🎓 Conceptualizacion del lenguace c++
-### **SENA** _(2025 - 2025)_
+## 🎓 Colegio Enrique Olaya Herrera
+### **Bachiller y tecnico en ejecucion musical** _(2020)_
+## 🎓 SENA
+### **Tecnico en programacion de software** _(2021 - 2023)_
+## 🎓 Universidad distrital
+### **Desarrollo full stack basico** _(2023 - 2023)_
+## 🎓 SENA
+### **Calidad en el desarrollo de software** _(2025 - 2025)_
+## 🎓 SENA
+### **Conceptualizacion del lenguace c++** _(2025 - 2025)_
 
 
 ## 💡 Habilidades
