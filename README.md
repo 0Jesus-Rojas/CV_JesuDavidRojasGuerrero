@@ -28,7 +28,7 @@
 
 
 ## 💡 Habilidades
-- **Trabajo en equi**
+- **Trabajo en equipo**
 - **Comunicacion aseriva**
 - **Proactividad**
 
