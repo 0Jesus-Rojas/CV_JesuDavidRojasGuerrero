@@ -1,6 +1,6 @@
 # Hoja de Vida
 
-## Nombre jesus David Rojas Guerrero
+## jesus David Rojas Guerrero
 **Profesión:** _Analista y desarollador de software_
 
 ## 📞 Contacto
