@@ -16,15 +16,15 @@
 -   Atender y resolver los reclamos de Mercado Libre
 
 ## 🎓 Colegio Enrique Olaya Herrera
-### **  Bachiller y tecnico en ejecucion musical** _(2020)_
+-  ### **Bachiller y tecnico en ejecucion musical** _(2020)_
 ## 🎓 SENA
-### **  Tecnico en programacion de software** _(2021 - 2023)_
+-  ### **Tecnico en programacion de software** _(2021 - 2023)_
 ## 🎓 Universidad distrital
-### **  Desarrollo full stack basico** _(2023 - 2023)_
+-  ### **Desarrollo full stack basico** _(2023 - 2023)_
 ## 🎓 SENA
-### **  Calidad en el desarrollo de software** _(2025 - 2025)_
-### **  Conceptualizacion del lenguace c++** _(2025 - 2025)_
-### **  Modelado 3d en la aplicacion Sketchup** _(2025 - 2025)_
+-  ### **Calidad en el desarrollo de software** _(2025 - 2025)_
+-  ### **Conceptualizacion del lenguace c++** _(2025 - 2025)_
+-  ### **Modelado 3d en la aplicacion Sketchup** _(2025 - 2025)_
 
 
 ## 💡 Habilidades
