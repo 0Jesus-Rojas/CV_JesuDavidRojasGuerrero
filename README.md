@@ -1,4 +1,3 @@
-# CV_Example
 # Hoja de Vida
 
 ## Nombre jesus David Rojas Guerrero
@@ -11,8 +10,10 @@
 ## 🏢 Experiencia Laboral
 ### **Ciel ingenieria** _(jul 2022 Enero 2023)_
 - Tester de software.
+-   Pruebas do software y automatizacion
 ### **Teleperformance** _(Septiembre 2023 Diciembre 2024)_
 - Agente.
+-   Atender y resolver los reclamos de Mercado Libre
 
 ## 🎓 Colegio Enrique Olaya Herrera
 ### **Bachiller y tecnico en ejecucion musical** _(2020)_
