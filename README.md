@@ -5,7 +5,7 @@
 
 ## 📞 Contacto
 - **Email:** [jesusdavid181003@gmail.com](jesusdavid181003@gmail.com)
-- **LinkedIn:** [Jesus Rojas]((https://www.linkedin.com/in/jesus-rojas-8a8546275))
+- **LinkedIn:** [Jesus Rojas](https://www.linkedin.com/in/jesus-rojas-8a8546275)
 
 ## 🏢 Experiencia Laboral
 ### **Ciel ingenieria** _(jul 2022 Enero 2023)_
