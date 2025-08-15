@@ -14,7 +14,7 @@
 ### **Teleperformance** _(Septiembre 2023 Diciembre 2024)_
 - Agente.
 -   Atender y resolver los reclamos de Mercado Libre
-
+## 👨‍🏫 Experiencia Academica
 ## 🎓 Colegio Enrique Olaya Herrera
 -  ### **Bachiller y tecnico en ejecucion musical** _(2020)_
 ## 🎓 SENA
